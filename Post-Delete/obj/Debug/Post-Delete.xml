@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Post-Delete
+</name>
+</assembly>
+<members>
+<member name="T:Post_Delete.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Post_Delete.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Post_Delete.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Post_Delete.Form1.GetPosts">
+ <summary>
+ Get All Posts Id(s) On Your IG Profile
+ </summary>
+</member>
+<member name="M:Post_Delete.Form1.DeletePosts">
+ <summary>
+ Delete All Posts In List :)
+ </summary>
+</member>
+<member name="M:Post_Delete.Form1.GetPosts(System.String)">
+ <summary>
+ Return (HttpRequestResponse) To Regex It In GetPosts() !
+ </summary>
+ <param name="Uri">We Must Get (MaxId) To Get All Post Pages So We Make It Changeble :)</param>
+</member>
+<member name="M:Post_Delete.Form1.Delete(System.String)">
+ <summary>
+ Return True If Post Deleted (Booleaned Function)
+ </summary>
+ <param name="PostId">The ID We Have Grabbed :)</param>
+</member>
+<member name="M:Post_Delete.Form1.GetPostsCount(System.String)">
+ <summary>
+ Return All Posts Count
+ </summary>
+ <param name="Id">Ds_User_Id</param>
+</member>
+<member name="M:Post_Delete.Form1.Login(System.String,System.String)">
+ <summary>
+ Return HttpRequest Response String Get Right Responses In LoginB() !
+ </summary>
+ <param name="User">The User You Will Log In It</param>
+ <param name="Pass">The Pass Of Ur Username  :)</param>
+</member>
+<member name="M:Post_Delete.Form1.HashGen(System.String,System.String)">
+ <summary>
+ Sha256 Hash
+ </summary>
+ <param name="_PostString">PostData</param>
+ <param name="_Hash">Hash String</param>
+ <returns>Hashed PostData In Sha256(Format)</returns>
+</member>
+</members>
+</doc>

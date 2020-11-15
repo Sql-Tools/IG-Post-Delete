@@ -1,0 +1,12 @@
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\bin\Debug\Post-Delete.exe.config
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\bin\Debug\Post-Delete.exe
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\bin\Debug\Post-Delete.pdb
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\bin\Debug\Post-Delete.xml
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post_Delete.Form1.resources
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post_Delete.Resources.resources
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.vbproj.GenerateResource.cache
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.vbproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.exe
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.xml
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.pdb
+C:\Users\Nour\source\repos\Post-Delete\Post-Delete\obj\Debug\Post-Delete.vbprojAssemblyReference.cache
